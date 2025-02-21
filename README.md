@@ -1,2 +1,2 @@
-# Kohl-s-Admin-GUI-V1
-By gsub
+# Kohl's Admin GUI
+> By gsub
